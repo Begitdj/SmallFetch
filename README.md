@@ -2,7 +2,7 @@
 Simple SH fetch scripts!<br>
 ## Screenshot<br>
 ![Screenshot](Github/Demo.jpg)<br>
-##### P.S Ignore empty options host issue<br>
+###### P.S Ignore empty options host issue<br>
 ## Usage<br>
 Just run the sh file<br>
 [Download scripts](https://raw.githubusercontent.com/Begitdj/SmallFetch/refs/heads/main/SmallFetch.sh)<br>
