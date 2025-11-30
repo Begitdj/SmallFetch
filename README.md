@@ -1,0 +1,2 @@
+# SmallFetch
+Small SH scripts 
