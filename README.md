@@ -1,5 +1,5 @@
 # SmallFetch<br>
-Simple SH fetch scripts!<br>
+Simple Bash fetch scripts!<br>
 ## Screenshot<br>
 ![Screenshot](Github/Demo.jpg)<br>
 ###### P.S Ignore empty options host issue<br>
